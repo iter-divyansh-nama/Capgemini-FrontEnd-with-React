@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "name": "J",
+      "friend": "V",
+      "id": "74Y8KUzND24",
+      "city": "Jaipur"
+    },
+    {
+      "name": "J",
+      "friend": "V",
+      "id": "_FvBXGA8PCc"
+    }
+  ],
+  "users": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}

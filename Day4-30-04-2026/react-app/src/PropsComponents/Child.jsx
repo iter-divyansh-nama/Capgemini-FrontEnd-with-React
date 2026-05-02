@@ -1,0 +1,17 @@
+import React from 'react'
+
+const Child = (childProps) => {
+    console.log(childProps);
+    
+
+  return (
+    <div>
+      <h3>this is surname in child comp</h3>
+      <hr />
+      
+      {childProps.value.value.surname}
+    </div>
+  )
+}
+
+export default Child
